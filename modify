@@ -3,7 +3,7 @@
 remote add content;+1
 
 
-local add content;
+local add content;+++2
 
 
 remote add conflit;
